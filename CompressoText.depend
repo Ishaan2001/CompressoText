@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1626773244 source:c:\users\lenovo\desktop\compressotext\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<string>
+	"Tree_huffmanCode.h"
+	"mycompare.h"
+	<utility>
+	<unordered_map>
+
+1626711974 source:d:\ds labs\mycompare.c
+
+1626729735 c:\users\lenovo\desktop\compressotext\tree_huffmancode.h
+
+1626729733 c:\users\lenovo\desktop\compressotext\mycompare.h
+	<iostream>
+	<utility>
+
